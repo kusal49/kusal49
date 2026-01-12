@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Kusal Kumar  
 
-<!--
-**kusal49/kusal49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 AI / ML Engineer | NLP & Voice AI  
+🎓 B.Tech in Electronics & Communication  
 
-Here are some ideas to get you started:
+I build real-world AI systems including fraud detection, OCR search engines, and recommendation systems.  
+Currently focused on **Transformers, NLP and Voice AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🏥 AI-Powered Healthcare Fraud Detection  
+End-to-end ML system to detect fake insurance claims  
+🔗 Live App: http://13.127.230.91:8501  
+
+---
+
+### 📄 OCR-Based Document Search Engine  
+Search scanned PDFs & invoices using AI  
+Tech: OpenCV, Tesseract, TF-IDF, Word2Vec  
+
+---
+
+### 🎧 Spotify Music Recommendation System  
+Personalized music recommender  
+Tech: KNN, Clustering, Scikit-Learn  
+
+---
+
+## 🧰 Tech Stack  
+Python • Machine Learning • Deep Learning • NLP • TensorFlow • FastAPI • Docker • AWS  
+
+📫 LinkedIn: https://www.linkedin.com/in/kusal4915  
