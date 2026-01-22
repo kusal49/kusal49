@@ -12,6 +12,7 @@ Currently focused on **Transformers, NLP and Voice AI**.
 
 ### AI Consumer Rights Defender
 An Autonomous Legal Agent that fights for consumer rights.
+
 🔗 Live App: https://lawyerdost.streamlit.app/
 
 ---
