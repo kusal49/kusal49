@@ -10,6 +10,12 @@ Currently focused on **Transformers, NLP and Voice AI**.
 
 ## 🚀 Featured Projects
 
+### AI Consumer Rights Defender
+An Autonomous Legal Agent that fights for consumer rights.
+🔗 Live App: https://lawyerdost.streamlit.app/
+
+---
+
 ### 🏥 AI-Powered Healthcare Fraud Detection  
 End-to-end ML system to detect fake insurance claims  
 🔗 Live App: http://13.127.230.91:8501  
