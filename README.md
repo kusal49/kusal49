@@ -10,17 +10,19 @@ Currently focused on **Transformers, NLP and Voice AI**.
 
 ## 🚀 Featured Projects
 
+
+
+### Automated Medical Report Interpretation Using AI and OCR\
+An AI-powered system that automatically interprets medical test reports from both PDF documents and scanned images, providing structured health insights and responsible recommendations on whether to consult a medical professional.
+Tech: Python, Streamlit, PaddleOCR, PDFPlumber, Groq LLM, Agent-based AI, PIL, NumPy 
+
+---
+
 ### AI Consumer Rights Defender
 An Autonomous Legal Agent that fights for consumer rights.
 Tech: LangChain, LLM APIs, Prompt Engineering, RAG, Tools 
 
 🔗 Live App: https://lawyerdost.streamlit.app/
-
----
-
-### Automated Medical Report Interpretation Using AI and OCR\
-An AI-powered system that automatically interprets medical test reports from both PDF documents and scanned images, providing structured health insights and responsible recommendations on whether to consult a medical professional.
-Tech: Python, Streamlit, PaddleOCR, PDFPlumber, Groq LLM, Agent-based AI, PIL, NumPy 
 
 ---
 
