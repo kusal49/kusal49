@@ -19,11 +19,11 @@ Tech: Python, Streamlit, PaddleOCR, PDFPlumber, Groq LLM, Agent-based AI, PIL, N
 
 ---
 
-### AI Consumer Rights Defender
-An Autonomous Legal Agent that fights for consumer rights.
+### ⚖️ VIDHI — AI Legal Notice Drafting System for Law Firms
+VIDHI is an AI-powered legal drafting system designed to assist law firms and legal professionals in creating structured, formal legal notices from plain-language case details.
 Tech: LangChain, LLM APIs, Prompt Engineering, RAG, Tools 
 
-🔗 Live App: https://lawyerdost.streamlit.app/
+🔗 Live App: https://vidhii.streamlit.app/
 
 ---
 
