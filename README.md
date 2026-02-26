@@ -13,6 +13,7 @@ Currently focused on **Transformers, NLP and Voice AI**.
 
 ### ⚖️ VIDHI — AI Legal Notice Drafting System for Law Firms
 VIDHI is an AI-powered legal drafting system designed to assist law firms and legal professionals in creating structured, formal legal notices from plain-language case details.
+
 Tech: LangChain, LLM APIs, Prompt Engineering, RAG, Tools 
 
 🔗 Live App: https://vidhii.streamlit.app/
@@ -31,12 +32,14 @@ Tech: Python, Streamlit, PaddleOCR, PDFPlumber, Groq LLM, Agent-based AI, PIL, N
 
 ### 📄 OCR-Based Document Search Engine  
 Search scanned PDFs & invoices using AI  
+
 Tech: OpenCV, Tesseract, TF-IDF, Word2Vec  
 
 ---
 
 ### 🎧 Spotify Music Recommendation System  
 Personalized music recommender  
+
 Tech: KNN, Clustering, Scikit-Learn  
 
 ---
